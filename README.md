@@ -1,2 +1,2 @@
 # bibi
-bibi is mime
+bibi is mine
